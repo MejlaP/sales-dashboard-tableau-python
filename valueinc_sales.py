@@ -1,11 +1,3 @@
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 19 09:50:44 2024
-
-@author: ice99
-"""
-
 import pandas as pd
 
 # file_name = pd.read_csv('file.csv') <-----format of read_csv
