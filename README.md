@@ -4,7 +4,7 @@
 
 ### This project focuses on data analysis and visualization using Pandas for data processing and Tableau for creating visualizations. The goal was to process a dataset, extract key insights, and present them through clear and interactive charts and dashboard.
 
-Link to dashboard:
+Link to the Tableau dashboard:
 
 https://public.tableau.com/app/profile/mejla.p/viz/ValueInc_project/Dashboard1
 
